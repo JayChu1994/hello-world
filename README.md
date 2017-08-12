@@ -1,3 +1,2 @@
-# hello-world
-Just another _repository
-hi
+Just another repository
+Hello github!
